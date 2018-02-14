@@ -16,9 +16,11 @@
     "start-node": "node server.js"
   },
   "dependencies": {
+    "axios": "^0.17.1",
     "buefy": "^0.6.3",
     "ejs": "^2.5.7",
     "express": "^4.16.2",
+    "lodash": "^4.17.5",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
